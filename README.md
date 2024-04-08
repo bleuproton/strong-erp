@@ -1,39 +1,37 @@
-# OpenXE - The free ERP
+OpenXE - De gratis ERP
 
-![OpenXE overview](https://github.com/openxe-org/OpenXE/blob/master/www/themes/new/images/login_screen_picture.jpg "OpenXE")
+OpenXE is een uitgebreide webgebaseerde applicatie voor het beheren van alle zakelijke processen. Enkele functies zijn onder andere:
 
-OpenXE ist eine umfassende webbasierte Anwendung zur Abwicklung aller kaufmännischen Prozesse. Zu den Funktionen gehören unter Anderem:
+- Opstellen van offertes
+- Orderverwerking
+- Facturering
+- Bestellingen
+- Voorraadbeheer
+- Klantcommunicatie
+- Taak- en afsprakenbeheer
+- Tijdsregistratie
 
-* Erstellung von Angeboten
-* Auftragsabwicklung
-* Rechnungsstellung
-* Bestellung
-* Lagerverwaltung
-* Kundenkommunikation
-* Aufgaben- und Terminverwaltung
-* Zeitabrechnung
+# Nieuwe communitysite: https://openxe.org/
 
-# Neue Community-Seite: https://openxe.org/
+Aan alle geïnteresseerden:
 
-An alle Interessenten:
+Dit project begint met krachtige software, maar vooral in het begin is het moeilijk om de potentiële gebruikers in te schatten. Dit is echter belangrijke informatie en ook motivatie voor iedereen die actief deelneemt aan het project. Wij vragen daarom alle geïnteresseerden in OpenXE om zich hier te registreren. Registratie is gratis en niet-bindend. Bovendien profiteert u ervan om bij vragen rechtstreeks contact op te nemen met de community of actief deel te nemen aan de vormgeving ervan.
 
-Dieses Projekt startet mit einer leistungsfähigen Software, aber gerade am Anfang ist es schwierig, die potenziellen Anwender abzuschätzen. Das ist jedoch eine wichtige Information und auch Motivation für alle, die sich aktiv am Projekt beteiligen. Wir bitten daher, alle Interessenten für OpenXE, sich hier anzumelden. Die Anmeldung ist kostenfrei und mit keinerlei Verpflichtungen versehen. Ausserdem habt Ihr den Vorteil, Euch bei Fragen direkt im Communitybereich zu melden oder selber aktiv mitzugestalten.
+We kijken uit naar jullie deelname, of het nu als stille lezer of actieve gebruiker is.
 
-Wir freuen uns über Eure Teilnahme, egal ob als stiller Mitleser oder aktiver User.
+# Laatste wijzigingen: Ticketsysteem
 
-# Letzte Änderungen: Ticket System
+Nieuw in [V.1.3](https://github.com/openxe-org/OpenXE/releases/tag/V.1.3):
+Herimplementatie van het Xentral 20 Enterprise ticketsysteem met veel verbeteringen, zoals:
+- Bijlagen worden ook bij uitgaande berichten opgeslagen
+- Verbeterde opmerkingsfunctie
+- Ondersteuning voor meerdere ontvangers en CC
+- Verbeterde batchverwerking
 
-Neu in [V.1.3](https://github.com/openxe-org/OpenXE/releases/tag/V.1.3):
-Neuimplementierung des Xentral 20 Enterprise Ticketsystems mit vielen Verbesserungen, z.B.:
-- Anhänge werden auch bei ausgehenden Nachrichten gespeichert
-- Verbesserte Kommentarfunktion
-- Unterstützung mehrerer Empfänger und CC
-- Verbesserte Stapelverarbeitung
+# Installatie
 
-# Installation
+[Hier vindt u de serverinstallatie](SERVER_INSTALL.md)
 
-[Hier gehts zur Server Installation](SERVER_INSTALL.md)
+[Hier vindt u de OpenXE-installatie](INSTALL.md)
 
-[Hier gehts zur OpenXE Installation](INSTALL.md)
-
-OpenXE ist freie Software, lizensiert unter AGPL 3 und basiert auf der Open Source Version von Xentral https://xentral.com/  
+OpenXE is vrije software, gelicentieerd onder AGPL 3 en is gebaseerd op de open-sourceversie van Xentral https://xentral.com/
